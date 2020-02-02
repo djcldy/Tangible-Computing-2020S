@@ -1,0 +1,20 @@
+/* div class based on id */
+
+
+body{
+
+	width: 100vw;
+
+	font-family: 'consolas';
+	/*color: #592C5F; */
+	padding: 2vw;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+#p5{
+	position: relative;
+}
+

@@ -1,0 +1,32 @@
+
+
+
+/* div class based on id */
+
+body {
+
+	font-family: 'Consolas';
+
+	/*padding: 5vw;*/
+	justify-content: center;
+	width:100%;
+
+	/* This centers our sketch vertically. */
+	align-items: center;
+
+}
+
+#myInput{
+	font-size: 6vh;
+	width:80%;
+	outline: none;
+	font-family: 'Consolas';
+}
+
+#links{
+	padding: 1vw;
+	position: absolute;
+	/*background-color: black;*/
+	color: white;
+}
+

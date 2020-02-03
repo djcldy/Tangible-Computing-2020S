@@ -57,7 +57,8 @@
 body{
 	background-color: pink;
 	/*width: 100vw;*/
-	font-family: 'consolas';
+	/*font-family: 'consolas';*/
+	font-family: 'Sigmar One', cursive;
 	/*color: #592C5F; */
 	color: #FF3232; 
 	padding: 2vw;

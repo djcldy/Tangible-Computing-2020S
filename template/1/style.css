@@ -1,0 +1,65 @@
+/* div class based on id */
+
+
+body{
+<h1>
+	/* Style for "Organic La" */
+position: 700px;
+width: 804px;
+height: 80px;
+text-shadow: 0 2px 2px #8d6a6a;
+color: #FFCBCB;
+font-family: "consolas";
+font-size: 20px;
+font-weight: 600;
+letter-spacing: 6px;
+</h1>
+}
+
+body{
+<h2>
+	/* Style for "Amber_Lowe" */
+width: 804px;
+height: 80px;
+text-shadow: 0 2px 2px #8d6a6a;
+color: #FFCBCB;
+font-family: "consolas";
+font-size: 10px;
+font-weight: 400;
+letter-spacing: 5px;
+</h2>
+}
+body{
+<p>
+	/* Style for "Organic La" */
+width: 804px;
+height: 80px;
+text-shadow: 0 2px 2px #8d6a6a;
+color: #FFCBCB;
+font-family: "consolas";
+font-size: 10px;
+font-weight: 200;
+letter-spacing: 1px;
+</p>
+}
+
+
+<style>
+body {
+  background-image: url('img_Landing page Offical.jpg');
+}
+</style>
+
+
+
+
+
+
+
+/*  min-width: 290px;
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.5;
+  padding-right: 5;
+  overflow-x:hidden;*/

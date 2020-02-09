@@ -8,7 +8,7 @@ template/node template/node_modules
 
 node_modules/
 # node_modules
-template/ABDEL./index.html
-template/ABDEL./style.css
-template/ABDEL./week_01.html
-template/ABDEL./weeks/01/index.html
+# template/ABDEL./index.html
+# template/ABDEL./style.css
+# template/ABDEL./week_01.html
+# template/ABDEL./weeks/01/index.html

@@ -17,7 +17,7 @@ function setup(){
 // Example: circle
 // Based on https://editor.p5js.org/ftobon@heartofla.org/sketches/SkBy9XP97
 
-function TenThousand(){
+function TenThousandX(){
 
   stroke(0,25)
   // strokeWeight(3)

@@ -15,7 +15,7 @@ function setup(){
 
 // Example: Perlin Noise
 
-function TenThousand(){
+function TenThousandX(){
 
 	let t = 100
 

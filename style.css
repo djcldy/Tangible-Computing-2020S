@@ -178,6 +178,7 @@ body {
   /*color: #4d4e53;*/
   background-color: #ffffff;
   /*font-family: "Open Sans", Arial, sans-serif;*/
+  font-family: 'Vollkorn', serif;
   line-height: 1.5;
   padding-right: 5;
   overflow-x:hidden;
@@ -390,6 +391,8 @@ code {
 
 /* The sidebar menu */
 .sidebar {
+
+  font-style: bold !important;
   height: 100%; /* 100% Full-height */
   width: 30%; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */

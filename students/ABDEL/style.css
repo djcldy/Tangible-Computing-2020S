@@ -1,0 +1,50 @@
+/* div class based on id */
+
+
+
+body{
+
+	width: 100vw;
+    background-color: #CCD1D1;
+	font-family: 'Georgia';
+	/*color: #592C5F; */
+	padding: 2vw;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+#p5{
+	position: relative;
+}
+
+h1{
+	font-size: 5vh;
+}
+
+h2{
+	font-size: 4vh;
+	color: #633974;
+}
+
+#bayo{
+
+	width:27%;
+
+}
+
+#mario3{
+
+	width:25%;
+
+}
+
+
+/*  min-width: 290px;
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.5;
+  padding-right: 5;
+  overflow-x:hidden;*/

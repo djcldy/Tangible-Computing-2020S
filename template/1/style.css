@@ -46,7 +46,7 @@ letter-spacing: 1px;
 
 <style>
 body {
-  background-image: url('img_Landing page Offical.jpg');
+  background-image: <img_Landing/> ('img_Landing page Offical.jpg');
 }
 </style>
 

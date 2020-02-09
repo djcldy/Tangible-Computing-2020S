@@ -1,0 +1,29 @@
+/* div class based on id */
+
+
+body{
+
+	width: 100vw;
+
+	font-family: 'consolas';
+	/*color: #592C5F; */
+	padding: 2vw;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+#p5{
+	position: relative;
+}
+
+
+
+/*  min-width: 290px;
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.5;
+  padding-right: 5;
+  overflow-x:hidden;*/

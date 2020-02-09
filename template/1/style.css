@@ -1,8 +1,5 @@
 /* div class based on id */
-
-
-body{
-<h1>
+h1{
 	/* Style for "Organic La" */
 position: 803px, 507px;
 width: 804px;
@@ -13,11 +10,9 @@ font-family: "consolas";
 font-size: 20px;
 font-weight: 600;
 letter-spacing: 6px;
-</h1>
 }
 
-body{
-<h2>
+h2{
 	/* Style for "Amber_Lowe" */
 width: 804px;
 height: 80px;
@@ -27,11 +22,10 @@ font-family: "consolas";
 font-size: 10px;
 font-weight: 400;
 letter-spacing: 5px;
-</h2>
 }
-body{
-<p>
-	/* Style for "Organic La" */
+
+p{
+	/* Style for "paragraph" */
 width: 804px;
 height: 80px;
 text-shadow: 0 2px 2px #8d6a6a;
@@ -40,8 +34,10 @@ font-family: "consolas";
 font-size: 10px;
 font-weight: 200;
 letter-spacing: 1px;
-</p>
+
+
 }
+
 
 
 <style>
@@ -52,7 +48,7 @@ body {
 
 body{
 
-	/* Style for "Ellipse 13"*/
+	/* Style for "Ellipse 13"
 const ellipse = {
   width: 93,
   height: 94,
@@ -60,7 +56,7 @@ const ellipse = {
   boxShadow: '4 4 75 rgba(0, 0, 0, 0.45)',
   backgroundColor: '#ffcbcb',
 }
-}
+}*/
 
 body{
 	/* Vector 1 */
